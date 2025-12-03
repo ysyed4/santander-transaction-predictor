@@ -1,0 +1,16 @@
+# Ignore Data Files
+data/*.csv
+data/*.zip
+*.pkl
+*.h5
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore System files
+.DS_Store
