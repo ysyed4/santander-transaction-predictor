@@ -16,8 +16,8 @@
 3. Run `pip install -r requirements.txt`
 
 ## Run Models
-1. LGMB: python -m src.model_lgbm
-2. XGB: python -m src.model_xgb
-3. Generate File: python -m src.submission_generator
+1. LGMB: `python -m src.model_lgbm`
+2. XGB: `python -m src.model_xgb`
+3. Generate File: `python -m src.submission_generator`
 
 
